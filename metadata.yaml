@@ -1,0 +1,25 @@
+_repo: Floor-of-Heaven_72070
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hamm, T.D.
+    gutenberg_agent_id: '56526'
+    url: http://www.gutenberg.org/2009/agents/56526
+description: ''
+gutenberg_issued: '2023-11-08'
+identifiers:
+  gutenberg: '72070'
+language: en
+pgterms:marc905: 20231019102839hamm
+pgterms:marc906: '1960'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bZiff-Davis Publishing Company, $c1960.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Floor of Heaven
+url: http://www.gutenberg.org/ebooks/72070
