@@ -1,11 +1,16 @@
 _repo: Floor-of-Heaven_72070
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72070-h/images/cover.jpg
 creator:
   author:
     agent_name: Hamm, T.D.
     gutenberg_agent_id: '56526'
     url: http://www.gutenberg.org/2009/agents/56526
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72070#Floor-of-Heaven
 gutenberg_issued: '2023-11-08'
 identifiers:
   gutenberg: '72070'
